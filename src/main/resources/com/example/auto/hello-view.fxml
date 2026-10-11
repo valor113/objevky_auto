@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Rectangle?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="559.0" prefWidth="864.0" xmlns="http://javafx.com/javafx/26" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.auto.HelloController">
+   <children>
+      <Rectangle fx:id="autoRect" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="34.0" layoutX="397.0" layoutY="246.0" stroke="BLACK" strokeType="INSIDE" width="70.0" />
+   </children>
+</Pane>
